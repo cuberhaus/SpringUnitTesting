@@ -1,0 +1,15 @@
+edu/uoc/epcsd/showcatalog/entities/Performance.class
+edu/uoc/epcsd/showcatalog/entities/Category.class
+edu/uoc/epcsd/showcatalog/controllers/CategoryController.class
+edu/uoc/epcsd/showcatalog/controllers/ShowController.class
+edu/uoc/epcsd/showcatalog/repositories/CategoryRepository.class
+edu/uoc/epcsd/showcatalog/entities/Performance$PerformanceBuilder.class
+edu/uoc/epcsd/showcatalog/entities/Show.class
+edu/uoc/epcsd/showcatalog/kafka/KafkaTopicConfig.class
+edu/uoc/epcsd/showcatalog/ShowCatalogApplication.class
+edu/uoc/epcsd/showcatalog/entities/TStatus.class
+edu/uoc/epcsd/showcatalog/kafka/KafkaProducerConfig.class
+edu/uoc/epcsd/showcatalog/repositories/ShowRepository.class
+edu/uoc/epcsd/showcatalog/entities/Category$CategoryBuilder.class
+edu/uoc/epcsd/showcatalog/entities/Show$ShowBuilder.class
+edu/uoc/epcsd/showcatalog/kafka/KafkaConstants.class

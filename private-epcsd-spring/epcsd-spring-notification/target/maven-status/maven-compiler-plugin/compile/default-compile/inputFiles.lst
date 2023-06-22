@@ -1,0 +1,10 @@
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/pojos/Category.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/pojos/User.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/kafka/KafkaConstants.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/kafka/KafkaClassListener.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/controllers/NotificationController.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/kafka/KafkaConsumerConfig.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/NotificationApplication.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/pojos/Show.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/services/UserService.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-notification/src/main/java/edu/uoc/epcsd/notification/services/NotificationService.java

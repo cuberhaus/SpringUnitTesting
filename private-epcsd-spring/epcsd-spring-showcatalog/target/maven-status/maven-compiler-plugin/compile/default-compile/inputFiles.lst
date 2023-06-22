@@ -1,0 +1,12 @@
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-showcatalog/src/main/java/edu/uoc/epcsd/showcatalog/entities/Category.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-showcatalog/src/main/java/edu/uoc/epcsd/showcatalog/ShowCatalogApplication.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-showcatalog/src/main/java/edu/uoc/epcsd/showcatalog/repositories/ShowRepository.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-showcatalog/src/main/java/edu/uoc/epcsd/showcatalog/entities/Performance.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-showcatalog/src/main/java/edu/uoc/epcsd/showcatalog/controllers/CategoryController.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-showcatalog/src/main/java/edu/uoc/epcsd/showcatalog/kafka/KafkaTopicConfig.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-showcatalog/src/main/java/edu/uoc/epcsd/showcatalog/kafka/KafkaProducerConfig.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-showcatalog/src/main/java/edu/uoc/epcsd/showcatalog/controllers/ShowController.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-showcatalog/src/main/java/edu/uoc/epcsd/showcatalog/entities/TStatus.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-showcatalog/src/main/java/edu/uoc/epcsd/showcatalog/kafka/KafkaConstants.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-showcatalog/src/main/java/edu/uoc/epcsd/showcatalog/entities/Show.java
+/Users/jorgegarcia/gits/private-epcsd-spring/epcsd-spring-showcatalog/src/main/java/edu/uoc/epcsd/showcatalog/repositories/CategoryRepository.java

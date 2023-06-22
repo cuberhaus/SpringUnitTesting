@@ -1,0 +1,13 @@
+edu/uoc/epcsd/notification/pojos/Show.class
+edu/uoc/epcsd/notification/services/UserService.class
+edu/uoc/epcsd/notification/NotificationApplication.class
+edu/uoc/epcsd/notification/pojos/User.class
+edu/uoc/epcsd/notification/kafka/KafkaClassListener.class
+edu/uoc/epcsd/notification/services/NotificationService.class
+edu/uoc/epcsd/notification/kafka/KafkaConstants.class
+edu/uoc/epcsd/notification/pojos/Show$ShowBuilder.class
+edu/uoc/epcsd/notification/pojos/Category$CategoryBuilder.class
+edu/uoc/epcsd/notification/pojos/Category.class
+edu/uoc/epcsd/notification/pojos/User$UserBuilder.class
+edu/uoc/epcsd/notification/controllers/NotificationController.class
+edu/uoc/epcsd/notification/kafka/KafkaConsumerConfig.class
