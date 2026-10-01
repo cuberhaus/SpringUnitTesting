@@ -1,6 +1,6 @@
 # SpringUnitTesting
 
-Frozen FIB-UPC EPCSD coursework: Spring Boot 2.6.2 microservices on Java 11, demonstrating unit, integration, and architecture testing patterns. Treat as an archive — do not modernize dependencies or restructure modules.
+FIB-UPC EPCSD coursework: Spring Boot 2.6.2 microservices on Java 11, demonstrating unit, integration, and architecture testing patterns.
 
 ## Architecture
 
